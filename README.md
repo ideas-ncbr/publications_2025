@@ -10,3 +10,6 @@
 | 8 | "Knowledge-Driven Bayesian Uncertainty Quantification for Reliable Fake News Detection" | Julia Puczyńska, Youcef Djenouri | ECAI 2025 | [Link](https://www.researchgate.net/publication/396781208_Knowledge-Driven_Bayesian_Uncertainty_Quantification_for_Reliable_Fake_News_Detection) |
 | 9 | "FlatCAD: Fast Curvature Regularization of Neural SDFs for CAD Models" | Haotian Yin, Aleksander Plocharski, Michal Jan Wlodarczyk, Mikolaj Kida, Przemyslaw Musialski | Pacific Graphics 2025 | [Link](https://www.arxiv.org/abs/2506.16627) |
 | 10 | "Debate2Create: Robot Co-design via Large Language Model Debates" |  Kevin Qiu, Marek Cygan| IROS 2025 | [Link](https://arxiv.org/abs/2510.25850) |
+| 11 | "Failure Prediction Is a Better Performance Proxy for Early-Exit Networks Than Calibration" |  Piotr Kubaty, Filip Szatkowski, Metod Jazbec, Bartosz Wójcik
+| NeurIPS 2025 Workshop on Structured Probabilistic Inference & Generative Modeling | [Link]([https://arxiv.org/abs/2510.25850](https://arxiv.org/abs/2508.21495)) |
+| 12 | "Universal Properties of Activation Sparsity in Modern Large Language Models" | Filip Szatkowski, Patryk Będkowski, Alessio Devoto, Jan Dubiński, Pasquale Minervini, Mikołaj Piórczyński, Simone Scardapane, Bartosz Wójcik | NeurIPS 2025 UniReps Workshop | [Link]([https://arxiv.org/abs/2510.25850](https://arxiv.org/abs/2509.00454v1)) |
